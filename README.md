@@ -6,11 +6,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Project Implementation](https://github.com/ShahAkshita31/Vulnerability-Management-Implementation)**
-- **[Windows 11 Pro STIGs Implementation]**
+- **[Windows 11 Pro STIGs Implementation](https://github.com/ShahAkshita31/STIG-Implementation-for-Win-11-Pro)**
 
 ## 🚨 Automation and Threat Detection
 
-- **[AI SOC Agent for Sentinel](https://github.com/ShahAkshita31/AI-SOC-Agent-Project)*
+- **[AI SOC Agent for Sentinel](https://github.com/ShahAkshita31/AI-SOC-Agent-Project)**
 
 ## 📝 Technical Writing
 
