@@ -14,9 +14,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 📝 Technical Writing
 
-- **[OTW Walkthrough)](https://github.com/ShahAkshita31/OverTheWire-Bandit-FullWalkthrough)**
-- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act I)](https://medium.com/h7w/sans-holiday-hack-2025-act-i-731fb5a21e64)**
-- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act II)](https://medium.com/h7w/sans-holiday-hack-challenge-2025-act-ii-writeup-1c3f8a784ec7)**
+- **[OTW Walkthrough)](https://github.com/ShahAkshita31/OverTheWire-Bandit-FullWalkthrough )**
+- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act I)](https://medium.com/h7w/sans-holiday-hack-2025-act-i-731fb5a21e64 )**
+- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act II)](https://medium.com/h7w/sans-holiday-hack-challenge-2025-act-ii-writeup-1c3f8a784ec7 )**
 
 <hr/>
 
