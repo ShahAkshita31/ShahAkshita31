@@ -20,8 +20,7 @@ Akshita@cybersec:~$ ./certifications.txt
 > [✓] Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
 > [✓] CompTIA Security+ (SY0-701)
 
-
-aniket@cybersec:~$ ./stack.txt
+Akshita@cybersec:~$ ./stack.txt
 > SIEM: Microsoft Sentinel, Splunk, Defender XDR
 > IDS/IPS: Snort, Suricata, Wireshark
 > Cloud: Azure, OpenStack, Ubuntu Linux
