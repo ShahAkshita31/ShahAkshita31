@@ -6,11 +6,17 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Project Implementation](https://github.com/ShahAkshita31/Vulnerability-Management-Implementation)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Windows 11 Pro STIGs Implementation](https://github.com/ShahAkshita31/STIG-Implementation-for-Win-11-Pro)**
 
-## 🚨 Threat Hunting and Security Operations
+## 🚨 Automation and Threat Detection
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[AI SOC Agent for Sentinel)](https://github.com/ShahAkshita31/AI-SOC-Agent-Project)**
+
+## 📝 Technical Writing
+
+- **[OTW Walkthrough)](https://github.com/ShahAkshita31/OverTheWire-Bandit-FullWalkthrough)**
+- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act I)](https://medium.com/h7w/sans-holiday-hack-2025-act-i-731fb5a21e64)**
+- **[Medium Blog: SANS Holiday Hack Challenge 2025 Act II)](https://medium.com/h7w/sans-holiday-hack-challenge-2025-act-ii-writeup-1c3f8a784ec7)**
 
 <hr/>
 
