@@ -9,7 +9,9 @@ __        __  _
    to Akshita's Console - v1.0
 
 Akshita@cybersec:~$ whoami
-> Security Operations Analyst passionate about cloud security, threat hunting, and security automation. Experienced in Microsoft Sentinel, Microsoft Defender, and building AI-assisted SOC workflows to improve threat detection, incident response, and overall security operations.
+> Security Operations Analyst passionate about cloud security, threat hunting, and security automation. 
+Experienced in Microsoft Sentinel, Microsoft Defender, and building AI-assisted SOC workflows to improve threat detection, 
+incident response, and overall security operations.
 
 Akshita@cybersec:~$ ./certifications.txt
 > [✓] Microsoft Certified: Security Operations Analyst (SC-200) (Pursuing)
